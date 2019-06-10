@@ -1,0 +1,11 @@
+C:\Users\cezar\source\repos\Inheritanceeee\Inheritanceeee\bin\Debug\netcoreapp2.2\Inheritanceeee.deps.json
+C:\Users\cezar\source\repos\Inheritanceeee\Inheritanceeee\bin\Debug\netcoreapp2.2\Inheritanceeee.runtimeconfig.json
+C:\Users\cezar\source\repos\Inheritanceeee\Inheritanceeee\bin\Debug\netcoreapp2.2\Inheritanceeee.runtimeconfig.dev.json
+C:\Users\cezar\source\repos\Inheritanceeee\Inheritanceeee\bin\Debug\netcoreapp2.2\Inheritanceeee.dll
+C:\Users\cezar\source\repos\Inheritanceeee\Inheritanceeee\bin\Debug\netcoreapp2.2\Inheritanceeee.pdb
+C:\Users\cezar\source\repos\Inheritanceeee\Inheritanceeee\obj\Debug\netcoreapp2.2\Inheritanceeee.csprojAssemblyReference.cache
+C:\Users\cezar\source\repos\Inheritanceeee\Inheritanceeee\obj\Debug\netcoreapp2.2\Inheritanceeee.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\Inheritanceeee\Inheritanceeee\obj\Debug\netcoreapp2.2\Inheritanceeee.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\Inheritanceeee\Inheritanceeee\obj\Debug\netcoreapp2.2\Inheritanceeee.AssemblyInfo.cs
+C:\Users\cezar\source\repos\Inheritanceeee\Inheritanceeee\obj\Debug\netcoreapp2.2\Inheritanceeee.dll
+C:\Users\cezar\source\repos\Inheritanceeee\Inheritanceeee\obj\Debug\netcoreapp2.2\Inheritanceeee.pdb
