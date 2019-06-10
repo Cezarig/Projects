@@ -1,0 +1,11 @@
+C:\Users\cezar\source\repos\First C sharp, ffs\First C sharp, ffs\bin\Debug\netcoreapp2.2\First C sharp, ffs.deps.json
+C:\Users\cezar\source\repos\First C sharp, ffs\First C sharp, ffs\bin\Debug\netcoreapp2.2\First C sharp, ffs.runtimeconfig.json
+C:\Users\cezar\source\repos\First C sharp, ffs\First C sharp, ffs\bin\Debug\netcoreapp2.2\First C sharp, ffs.runtimeconfig.dev.json
+C:\Users\cezar\source\repos\First C sharp, ffs\First C sharp, ffs\bin\Debug\netcoreapp2.2\First C sharp, ffs.dll
+C:\Users\cezar\source\repos\First C sharp, ffs\First C sharp, ffs\bin\Debug\netcoreapp2.2\First C sharp, ffs.pdb
+C:\Users\cezar\source\repos\First C sharp, ffs\First C sharp, ffs\obj\Debug\netcoreapp2.2\First C sharp, ffs.csprojAssemblyReference.cache
+C:\Users\cezar\source\repos\First C sharp, ffs\First C sharp, ffs\obj\Debug\netcoreapp2.2\First C sharp, ffs.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\First C sharp, ffs\First C sharp, ffs\obj\Debug\netcoreapp2.2\First C sharp, ffs.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\First C sharp, ffs\First C sharp, ffs\obj\Debug\netcoreapp2.2\First C sharp, ffs.AssemblyInfo.cs
+C:\Users\cezar\source\repos\First C sharp, ffs\First C sharp, ffs\obj\Debug\netcoreapp2.2\First C sharp, ffs.dll
+C:\Users\cezar\source\repos\First C sharp, ffs\First C sharp, ffs\obj\Debug\netcoreapp2.2\First C sharp, ffs.pdb

@@ -1,0 +1,11 @@
+C:\Users\cezar\source\repos\edx\edx\bin\Debug\netcoreapp2.2\edx.deps.json
+C:\Users\cezar\source\repos\edx\edx\bin\Debug\netcoreapp2.2\edx.runtimeconfig.json
+C:\Users\cezar\source\repos\edx\edx\bin\Debug\netcoreapp2.2\edx.runtimeconfig.dev.json
+C:\Users\cezar\source\repos\edx\edx\bin\Debug\netcoreapp2.2\edx.dll
+C:\Users\cezar\source\repos\edx\edx\bin\Debug\netcoreapp2.2\edx.pdb
+C:\Users\cezar\source\repos\edx\edx\obj\Debug\netcoreapp2.2\edx.csprojAssemblyReference.cache
+C:\Users\cezar\source\repos\edx\edx\obj\Debug\netcoreapp2.2\edx.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\edx\edx\obj\Debug\netcoreapp2.2\edx.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\edx\edx\obj\Debug\netcoreapp2.2\edx.AssemblyInfo.cs
+C:\Users\cezar\source\repos\edx\edx\obj\Debug\netcoreapp2.2\edx.dll
+C:\Users\cezar\source\repos\edx\edx\obj\Debug\netcoreapp2.2\edx.pdb

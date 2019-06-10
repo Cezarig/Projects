@@ -1,0 +1,3 @@
+﻿  Exemplu Latime.cpp
+Exemplu Latime.obj : error LNK2019: unresolved external symbol "public: __thiscall List::~List(void)" (??1List@@QAE@XZ) referenced in function _main
+C:\Users\cezar\source\repos\Exemplu Latime\Debug\Exemplu Latime.exe : fatal error LNK1120: 1 unresolved externals

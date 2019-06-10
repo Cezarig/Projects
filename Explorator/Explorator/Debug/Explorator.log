@@ -1,0 +1,6 @@
+﻿  Explorator.cpp
+C:\Users\cezar\source\repos\Explorator\Explorator\Explorator.cpp(168,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\cezar\source\repos\Explorator\Explorator\Explorator.cpp(175,18): warning C4309:  '=': truncation of constant value
+C:\Users\cezar\source\repos\Explorator\Explorator\Explorator.cpp(218,6): warning C4101:  'orientare': unreferenced local variable
+C:\Users\cezar\source\repos\Explorator\Explorator\Explorator.cpp(279,13): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  Explorator.vcxproj -> C:\Users\cezar\source\repos\Explorator\Debug\Explorator.exe
