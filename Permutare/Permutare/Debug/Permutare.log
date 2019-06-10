@@ -1,0 +1,4 @@
+﻿  Permutare.cpp
+C:\Users\cezar\source\repos\Permutare\Permutare\Permutare.cpp(17,13): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+C:\Users\cezar\source\repos\Permutare\Permutare\Permutare.cpp(30,20): warning C4018:  '<': signed/unsigned mismatch
+  Permutare.vcxproj -> C:\Users\cezar\source\repos\Permutare\Debug\Permutare.exe
