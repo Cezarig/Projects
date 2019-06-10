@@ -1,0 +1,11 @@
+C:\Users\cezar\source\repos\Variable type in C sharppppppppppp\Variable type in C sharppppppppppp\bin\Debug\netcoreapp2.2\Variable type in C sharppppppppppp.deps.json
+C:\Users\cezar\source\repos\Variable type in C sharppppppppppp\Variable type in C sharppppppppppp\bin\Debug\netcoreapp2.2\Variable type in C sharppppppppppp.runtimeconfig.json
+C:\Users\cezar\source\repos\Variable type in C sharppppppppppp\Variable type in C sharppppppppppp\bin\Debug\netcoreapp2.2\Variable type in C sharppppppppppp.runtimeconfig.dev.json
+C:\Users\cezar\source\repos\Variable type in C sharppppppppppp\Variable type in C sharppppppppppp\bin\Debug\netcoreapp2.2\Variable type in C sharppppppppppp.dll
+C:\Users\cezar\source\repos\Variable type in C sharppppppppppp\Variable type in C sharppppppppppp\bin\Debug\netcoreapp2.2\Variable type in C sharppppppppppp.pdb
+C:\Users\cezar\source\repos\Variable type in C sharppppppppppp\Variable type in C sharppppppppppp\obj\Debug\netcoreapp2.2\Variable type in C sharppppppppppp.csprojAssemblyReference.cache
+C:\Users\cezar\source\repos\Variable type in C sharppppppppppp\Variable type in C sharppppppppppp\obj\Debug\netcoreapp2.2\Variable type in C sharppppppppppp.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\Variable type in C sharppppppppppp\Variable type in C sharppppppppppp\obj\Debug\netcoreapp2.2\Variable type in C sharppppppppppp.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\Variable type in C sharppppppppppp\Variable type in C sharppppppppppp\obj\Debug\netcoreapp2.2\Variable type in C sharppppppppppp.AssemblyInfo.cs
+C:\Users\cezar\source\repos\Variable type in C sharppppppppppp\Variable type in C sharppppppppppp\obj\Debug\netcoreapp2.2\Variable type in C sharppppppppppp.dll
+C:\Users\cezar\source\repos\Variable type in C sharppppppppppp\Variable type in C sharppppppppppp\obj\Debug\netcoreapp2.2\Variable type in C sharppppppppppp.pdb
