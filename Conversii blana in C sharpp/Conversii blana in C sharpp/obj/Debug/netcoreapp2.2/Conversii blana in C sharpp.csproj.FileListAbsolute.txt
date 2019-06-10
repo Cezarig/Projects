@@ -1,0 +1,11 @@
+C:\Users\cezar\source\repos\Conversii blana in C sharpp\Conversii blana in C sharpp\bin\Debug\netcoreapp2.2\Conversii blana in C sharpp.deps.json
+C:\Users\cezar\source\repos\Conversii blana in C sharpp\Conversii blana in C sharpp\bin\Debug\netcoreapp2.2\Conversii blana in C sharpp.runtimeconfig.json
+C:\Users\cezar\source\repos\Conversii blana in C sharpp\Conversii blana in C sharpp\bin\Debug\netcoreapp2.2\Conversii blana in C sharpp.runtimeconfig.dev.json
+C:\Users\cezar\source\repos\Conversii blana in C sharpp\Conversii blana in C sharpp\bin\Debug\netcoreapp2.2\Conversii blana in C sharpp.dll
+C:\Users\cezar\source\repos\Conversii blana in C sharpp\Conversii blana in C sharpp\bin\Debug\netcoreapp2.2\Conversii blana in C sharpp.pdb
+C:\Users\cezar\source\repos\Conversii blana in C sharpp\Conversii blana in C sharpp\obj\Debug\netcoreapp2.2\Conversii blana in C sharpp.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\Conversii blana in C sharpp\Conversii blana in C sharpp\obj\Debug\netcoreapp2.2\Conversii blana in C sharpp.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\Conversii blana in C sharpp\Conversii blana in C sharpp\obj\Debug\netcoreapp2.2\Conversii blana in C sharpp.AssemblyInfo.cs
+C:\Users\cezar\source\repos\Conversii blana in C sharpp\Conversii blana in C sharpp\obj\Debug\netcoreapp2.2\Conversii blana in C sharpp.dll
+C:\Users\cezar\source\repos\Conversii blana in C sharpp\Conversii blana in C sharpp\obj\Debug\netcoreapp2.2\Conversii blana in C sharpp.pdb
+C:\Users\cezar\source\repos\Conversii blana in C sharpp\Conversii blana in C sharpp\obj\Debug\netcoreapp2.2\Conversii blana in C sharpp.csprojAssemblyReference.cache

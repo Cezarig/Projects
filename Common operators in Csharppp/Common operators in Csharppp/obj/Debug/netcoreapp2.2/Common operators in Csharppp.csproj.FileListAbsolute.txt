@@ -1,0 +1,11 @@
+C:\Users\cezar\source\repos\Common operators in Csharppp\Common operators in Csharppp\bin\Debug\netcoreapp2.2\Common operators in Csharppp.deps.json
+C:\Users\cezar\source\repos\Common operators in Csharppp\Common operators in Csharppp\bin\Debug\netcoreapp2.2\Common operators in Csharppp.runtimeconfig.json
+C:\Users\cezar\source\repos\Common operators in Csharppp\Common operators in Csharppp\bin\Debug\netcoreapp2.2\Common operators in Csharppp.runtimeconfig.dev.json
+C:\Users\cezar\source\repos\Common operators in Csharppp\Common operators in Csharppp\bin\Debug\netcoreapp2.2\Common operators in Csharppp.dll
+C:\Users\cezar\source\repos\Common operators in Csharppp\Common operators in Csharppp\bin\Debug\netcoreapp2.2\Common operators in Csharppp.pdb
+C:\Users\cezar\source\repos\Common operators in Csharppp\Common operators in Csharppp\obj\Debug\netcoreapp2.2\Common operators in Csharppp.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\Common operators in Csharppp\Common operators in Csharppp\obj\Debug\netcoreapp2.2\Common operators in Csharppp.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\Common operators in Csharppp\Common operators in Csharppp\obj\Debug\netcoreapp2.2\Common operators in Csharppp.AssemblyInfo.cs
+C:\Users\cezar\source\repos\Common operators in Csharppp\Common operators in Csharppp\obj\Debug\netcoreapp2.2\Common operators in Csharppp.dll
+C:\Users\cezar\source\repos\Common operators in Csharppp\Common operators in Csharppp\obj\Debug\netcoreapp2.2\Common operators in Csharppp.pdb
+C:\Users\cezar\source\repos\Common operators in Csharppp\Common operators in Csharppp\obj\Debug\netcoreapp2.2\Common operators in Csharppp.csprojAssemblyReference.cache
