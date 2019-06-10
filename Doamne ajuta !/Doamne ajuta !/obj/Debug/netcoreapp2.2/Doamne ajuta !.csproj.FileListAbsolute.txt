@@ -1,0 +1,31 @@
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\bin\Debug\netcoreapp2.2\Doamne ajuta !.deps.json
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\bin\Debug\netcoreapp2.2\Doamne ajuta !.runtimeconfig.json
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\bin\Debug\netcoreapp2.2\Doamne ajuta !.runtimeconfig.dev.json
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\bin\Debug\netcoreapp2.2\Doamne ajuta !.dll
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\bin\Debug\netcoreapp2.2\Doamne ajuta !.pdb
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\bin\Debug\netcoreapp2.2\Doamne ajuta !.Views.dll
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\bin\Debug\netcoreapp2.2\Doamne ajuta !.Views.pdb
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Doamne ajuta !.csprojAssemblyReference.cache
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Doamne ajuta !.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Doamne ajuta !.RazorAssemblyInfo.cache
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Doamne ajuta !.RazorAssemblyInfo.cs
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Doamne ajuta !.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Doamne ajuta !.AssemblyInfo.cs
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Doamne ajuta !.TagHelpers.input.cache
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Doamne ajuta !.TagHelpers.output.cache
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Doamne ajuta !.RazorCoreGenerate.cache
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Doamne ajuta !.RazorTargetAssemblyInfo.cache
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Doamne ajuta !.RazorTargetAssemblyInfo.cs
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Doamne ajuta !.Views.pdb
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Doamne ajuta !.dll
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Doamne ajuta !.pdb
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Doamne ajuta !.csproj.CopyComplete
+C:\Users\cezar\source\repos\Doamne ajuta !\Doamne ajuta !\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.g.cshtml.cs

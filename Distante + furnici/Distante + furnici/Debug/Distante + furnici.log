@@ -1,0 +1,6 @@
+﻿  Distante + furnici.cpp
+C:\Users\cezar\source\repos\Distante + furnici\Distante + furnici\Distante + furnici.cpp(82,29): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\cezar\source\repos\Distante + furnici\Distante + furnici\Distante + furnici.cpp(190,14): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\cezar\source\repos\Distante + furnici\Distante + furnici\Distante + furnici.cpp(205,25): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\cezar\source\repos\Distante + furnici\Distante + furnici\Distante + furnici.cpp(217,13): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  Distante + furnici.vcxproj -> C:\Users\cezar\source\repos\Distante + furnici\Debug\Distante + furnici.exe
