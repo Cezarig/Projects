@@ -1,0 +1,3 @@
+﻿  RecursiveSelection.cpp
+C:\Users\cezar\source\repos\RecursiveSelection\RecursiveSelection\RecursiveSelection.cpp(33): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  RecursiveSelection.vcxproj -> C:\Users\cezar\source\repos\RecursiveSelection\Debug\RecursiveSelection.exe

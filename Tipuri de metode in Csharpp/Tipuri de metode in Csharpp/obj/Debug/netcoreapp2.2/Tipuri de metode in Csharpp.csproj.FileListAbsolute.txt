@@ -1,0 +1,11 @@
+C:\Users\cezar\source\repos\Tipuri de metode in Csharpp\Tipuri de metode in Csharpp\bin\Debug\netcoreapp2.2\Tipuri de metode in Csharpp.deps.json
+C:\Users\cezar\source\repos\Tipuri de metode in Csharpp\Tipuri de metode in Csharpp\bin\Debug\netcoreapp2.2\Tipuri de metode in Csharpp.runtimeconfig.json
+C:\Users\cezar\source\repos\Tipuri de metode in Csharpp\Tipuri de metode in Csharpp\bin\Debug\netcoreapp2.2\Tipuri de metode in Csharpp.runtimeconfig.dev.json
+C:\Users\cezar\source\repos\Tipuri de metode in Csharpp\Tipuri de metode in Csharpp\bin\Debug\netcoreapp2.2\Tipuri de metode in Csharpp.dll
+C:\Users\cezar\source\repos\Tipuri de metode in Csharpp\Tipuri de metode in Csharpp\bin\Debug\netcoreapp2.2\Tipuri de metode in Csharpp.pdb
+C:\Users\cezar\source\repos\Tipuri de metode in Csharpp\Tipuri de metode in Csharpp\obj\Debug\netcoreapp2.2\Tipuri de metode in Csharpp.csprojAssemblyReference.cache
+C:\Users\cezar\source\repos\Tipuri de metode in Csharpp\Tipuri de metode in Csharpp\obj\Debug\netcoreapp2.2\Tipuri de metode in Csharpp.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\Tipuri de metode in Csharpp\Tipuri de metode in Csharpp\obj\Debug\netcoreapp2.2\Tipuri de metode in Csharpp.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\Tipuri de metode in Csharpp\Tipuri de metode in Csharpp\obj\Debug\netcoreapp2.2\Tipuri de metode in Csharpp.AssemblyInfo.cs
+C:\Users\cezar\source\repos\Tipuri de metode in Csharpp\Tipuri de metode in Csharpp\obj\Debug\netcoreapp2.2\Tipuri de metode in Csharpp.dll
+C:\Users\cezar\source\repos\Tipuri de metode in Csharpp\Tipuri de metode in Csharpp\obj\Debug\netcoreapp2.2\Tipuri de metode in Csharpp.pdb

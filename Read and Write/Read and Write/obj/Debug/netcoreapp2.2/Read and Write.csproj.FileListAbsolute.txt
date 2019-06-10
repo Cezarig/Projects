@@ -1,0 +1,11 @@
+C:\Users\cezar\source\repos\Read and Write\Read and Write\bin\Debug\netcoreapp2.2\Read and Write.deps.json
+C:\Users\cezar\source\repos\Read and Write\Read and Write\bin\Debug\netcoreapp2.2\Read and Write.runtimeconfig.json
+C:\Users\cezar\source\repos\Read and Write\Read and Write\bin\Debug\netcoreapp2.2\Read and Write.runtimeconfig.dev.json
+C:\Users\cezar\source\repos\Read and Write\Read and Write\bin\Debug\netcoreapp2.2\Read and Write.dll
+C:\Users\cezar\source\repos\Read and Write\Read and Write\bin\Debug\netcoreapp2.2\Read and Write.pdb
+C:\Users\cezar\source\repos\Read and Write\Read and Write\obj\Debug\netcoreapp2.2\Read and Write.csprojAssemblyReference.cache
+C:\Users\cezar\source\repos\Read and Write\Read and Write\obj\Debug\netcoreapp2.2\Read and Write.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\Read and Write\Read and Write\obj\Debug\netcoreapp2.2\Read and Write.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\Read and Write\Read and Write\obj\Debug\netcoreapp2.2\Read and Write.AssemblyInfo.cs
+C:\Users\cezar\source\repos\Read and Write\Read and Write\obj\Debug\netcoreapp2.2\Read and Write.dll
+C:\Users\cezar\source\repos\Read and Write\Read and Write\obj\Debug\netcoreapp2.2\Read and Write.pdb
