@@ -1,0 +1,11 @@
+C:\Users\cezar\source\repos\Loooops in Csharrppp\Loooops in Csharrppp\bin\Debug\netcoreapp2.2\Loooops in Csharrppp.deps.json
+C:\Users\cezar\source\repos\Loooops in Csharrppp\Loooops in Csharrppp\bin\Debug\netcoreapp2.2\Loooops in Csharrppp.runtimeconfig.json
+C:\Users\cezar\source\repos\Loooops in Csharrppp\Loooops in Csharrppp\bin\Debug\netcoreapp2.2\Loooops in Csharrppp.runtimeconfig.dev.json
+C:\Users\cezar\source\repos\Loooops in Csharrppp\Loooops in Csharrppp\bin\Debug\netcoreapp2.2\Loooops in Csharrppp.dll
+C:\Users\cezar\source\repos\Loooops in Csharrppp\Loooops in Csharrppp\bin\Debug\netcoreapp2.2\Loooops in Csharrppp.pdb
+C:\Users\cezar\source\repos\Loooops in Csharrppp\Loooops in Csharrppp\obj\Debug\netcoreapp2.2\Loooops in Csharrppp.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\Loooops in Csharrppp\Loooops in Csharrppp\obj\Debug\netcoreapp2.2\Loooops in Csharrppp.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\Loooops in Csharrppp\Loooops in Csharrppp\obj\Debug\netcoreapp2.2\Loooops in Csharrppp.AssemblyInfo.cs
+C:\Users\cezar\source\repos\Loooops in Csharrppp\Loooops in Csharrppp\obj\Debug\netcoreapp2.2\Loooops in Csharrppp.dll
+C:\Users\cezar\source\repos\Loooops in Csharrppp\Loooops in Csharrppp\obj\Debug\netcoreapp2.2\Loooops in Csharrppp.pdb
+C:\Users\cezar\source\repos\Loooops in Csharrppp\Loooops in Csharrppp\obj\Debug\netcoreapp2.2\Loooops in Csharrppp.csprojAssemblyReference.cache

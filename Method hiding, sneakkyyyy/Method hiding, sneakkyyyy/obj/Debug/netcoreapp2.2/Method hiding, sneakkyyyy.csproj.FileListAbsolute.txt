@@ -1,0 +1,11 @@
+C:\Users\cezar\source\repos\Method hiding, sneakkyyyy\Method hiding, sneakkyyyy\bin\Debug\netcoreapp2.2\Method hiding, sneakkyyyy.deps.json
+C:\Users\cezar\source\repos\Method hiding, sneakkyyyy\Method hiding, sneakkyyyy\bin\Debug\netcoreapp2.2\Method hiding, sneakkyyyy.runtimeconfig.json
+C:\Users\cezar\source\repos\Method hiding, sneakkyyyy\Method hiding, sneakkyyyy\bin\Debug\netcoreapp2.2\Method hiding, sneakkyyyy.runtimeconfig.dev.json
+C:\Users\cezar\source\repos\Method hiding, sneakkyyyy\Method hiding, sneakkyyyy\bin\Debug\netcoreapp2.2\Method hiding, sneakkyyyy.dll
+C:\Users\cezar\source\repos\Method hiding, sneakkyyyy\Method hiding, sneakkyyyy\bin\Debug\netcoreapp2.2\Method hiding, sneakkyyyy.pdb
+C:\Users\cezar\source\repos\Method hiding, sneakkyyyy\Method hiding, sneakkyyyy\obj\Debug\netcoreapp2.2\Method hiding, sneakkyyyy.csprojAssemblyReference.cache
+C:\Users\cezar\source\repos\Method hiding, sneakkyyyy\Method hiding, sneakkyyyy\obj\Debug\netcoreapp2.2\Method hiding, sneakkyyyy.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\Method hiding, sneakkyyyy\Method hiding, sneakkyyyy\obj\Debug\netcoreapp2.2\Method hiding, sneakkyyyy.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\Method hiding, sneakkyyyy\Method hiding, sneakkyyyy\obj\Debug\netcoreapp2.2\Method hiding, sneakkyyyy.AssemblyInfo.cs
+C:\Users\cezar\source\repos\Method hiding, sneakkyyyy\Method hiding, sneakkyyyy\obj\Debug\netcoreapp2.2\Method hiding, sneakkyyyy.dll
+C:\Users\cezar\source\repos\Method hiding, sneakkyyyy\Method hiding, sneakkyyyy\obj\Debug\netcoreapp2.2\Method hiding, sneakkyyyy.pdb

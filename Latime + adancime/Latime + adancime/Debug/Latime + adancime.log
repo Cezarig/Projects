@@ -1,0 +1,4 @@
+﻿  Latime + adancime.cpp
+C:\Users\cezar\source\repos\Latime + adancime\Latime + adancime\Latime + adancime.cpp(36,15): warning C4101:  'nod': unreferenced local variable
+C:\Users\cezar\source\repos\Latime + adancime\Latime + adancime\Latime + adancime.cpp(113,15): warning C4101:  'nod': unreferenced local variable
+  Latime + adancime.vcxproj -> C:\Users\cezar\source\repos\Latime + adancime\Debug\Latime + adancime.exe

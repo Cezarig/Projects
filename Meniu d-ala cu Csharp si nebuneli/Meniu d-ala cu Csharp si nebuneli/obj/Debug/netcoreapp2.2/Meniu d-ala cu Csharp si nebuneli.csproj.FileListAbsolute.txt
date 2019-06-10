@@ -1,0 +1,11 @@
+C:\Users\cezar\source\repos\Meniu d-ala cu Csharp si nebuneli\Meniu d-ala cu Csharp si nebuneli\bin\Debug\netcoreapp2.2\Meniu d-ala cu Csharp si nebuneli.deps.json
+C:\Users\cezar\source\repos\Meniu d-ala cu Csharp si nebuneli\Meniu d-ala cu Csharp si nebuneli\bin\Debug\netcoreapp2.2\Meniu d-ala cu Csharp si nebuneli.runtimeconfig.json
+C:\Users\cezar\source\repos\Meniu d-ala cu Csharp si nebuneli\Meniu d-ala cu Csharp si nebuneli\bin\Debug\netcoreapp2.2\Meniu d-ala cu Csharp si nebuneli.runtimeconfig.dev.json
+C:\Users\cezar\source\repos\Meniu d-ala cu Csharp si nebuneli\Meniu d-ala cu Csharp si nebuneli\bin\Debug\netcoreapp2.2\Meniu d-ala cu Csharp si nebuneli.dll
+C:\Users\cezar\source\repos\Meniu d-ala cu Csharp si nebuneli\Meniu d-ala cu Csharp si nebuneli\bin\Debug\netcoreapp2.2\Meniu d-ala cu Csharp si nebuneli.pdb
+C:\Users\cezar\source\repos\Meniu d-ala cu Csharp si nebuneli\Meniu d-ala cu Csharp si nebuneli\obj\Debug\netcoreapp2.2\Meniu d-ala cu Csharp si nebuneli.csprojAssemblyReference.cache
+C:\Users\cezar\source\repos\Meniu d-ala cu Csharp si nebuneli\Meniu d-ala cu Csharp si nebuneli\obj\Debug\netcoreapp2.2\Meniu d-ala cu Csharp si nebuneli.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\Meniu d-ala cu Csharp si nebuneli\Meniu d-ala cu Csharp si nebuneli\obj\Debug\netcoreapp2.2\Meniu d-ala cu Csharp si nebuneli.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\Meniu d-ala cu Csharp si nebuneli\Meniu d-ala cu Csharp si nebuneli\obj\Debug\netcoreapp2.2\Meniu d-ala cu Csharp si nebuneli.AssemblyInfo.cs
+C:\Users\cezar\source\repos\Meniu d-ala cu Csharp si nebuneli\Meniu d-ala cu Csharp si nebuneli\obj\Debug\netcoreapp2.2\Meniu d-ala cu Csharp si nebuneli.dll
+C:\Users\cezar\source\repos\Meniu d-ala cu Csharp si nebuneli\Meniu d-ala cu Csharp si nebuneli\obj\Debug\netcoreapp2.2\Meniu d-ala cu Csharp si nebuneli.pdb
