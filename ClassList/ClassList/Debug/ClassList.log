@@ -1,0 +1,4 @@
+﻿  ClassList.cpp
+C:\Users\cezar\source\repos\ClassList\ClassList\ClassList.cpp(150,18): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Users\cezar\source\repos\ClassList\ClassList\ClassList.cpp(153,18): warning C4305:  'argument': truncation from 'double' to 'float'
+  ClassList.vcxproj -> C:\Users\cezar\source\repos\ClassList\Debug\ClassList.exe
