@@ -1,0 +1,9 @@
+C:\Users\cezar\source\repos\Namespace in Csharppp\ProjectA.TeamA\bin\Debug\netstandard2.0\ProjectA.TeamA.deps.json
+C:\Users\cezar\source\repos\Namespace in Csharppp\ProjectA.TeamA\bin\Debug\netstandard2.0\ProjectA.TeamA.dll
+C:\Users\cezar\source\repos\Namespace in Csharppp\ProjectA.TeamA\bin\Debug\netstandard2.0\ProjectA.TeamA.pdb
+C:\Users\cezar\source\repos\Namespace in Csharppp\ProjectA.TeamA\obj\Debug\netstandard2.0\ProjectA.TeamA.csprojAssemblyReference.cache
+C:\Users\cezar\source\repos\Namespace in Csharppp\ProjectA.TeamA\obj\Debug\netstandard2.0\ProjectA.TeamA.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\Namespace in Csharppp\ProjectA.TeamA\obj\Debug\netstandard2.0\ProjectA.TeamA.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\Namespace in Csharppp\ProjectA.TeamA\obj\Debug\netstandard2.0\ProjectA.TeamA.AssemblyInfo.cs
+C:\Users\cezar\source\repos\Namespace in Csharppp\ProjectA.TeamA\obj\Debug\netstandard2.0\ProjectA.TeamA.dll
+C:\Users\cezar\source\repos\Namespace in Csharppp\ProjectA.TeamA\obj\Debug\netstandard2.0\ProjectA.TeamA.pdb

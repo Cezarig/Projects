@@ -1,0 +1,16 @@
+C:\Users\cezar\source\repos\Namespace in Csharppp\Namespace in Csharppp\obj\Debug\netcoreapp2.2\Namespace in Csharppp.csprojAssemblyReference.cache
+C:\Users\cezar\source\repos\Namespace in Csharppp\Namespace in Csharppp\obj\Debug\netcoreapp2.2\Namespace in Csharppp.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\Namespace in Csharppp\Namespace in Csharppp\obj\Debug\netcoreapp2.2\Namespace in Csharppp.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\Namespace in Csharppp\Namespace in Csharppp\obj\Debug\netcoreapp2.2\Namespace in Csharppp.AssemblyInfo.cs
+C:\Users\cezar\source\repos\Namespace in Csharppp\Namespace in Csharppp\bin\Debug\netcoreapp2.2\Namespace in Csharppp.deps.json
+C:\Users\cezar\source\repos\Namespace in Csharppp\Namespace in Csharppp\bin\Debug\netcoreapp2.2\Namespace in Csharppp.runtimeconfig.json
+C:\Users\cezar\source\repos\Namespace in Csharppp\Namespace in Csharppp\bin\Debug\netcoreapp2.2\Namespace in Csharppp.runtimeconfig.dev.json
+C:\Users\cezar\source\repos\Namespace in Csharppp\Namespace in Csharppp\bin\Debug\netcoreapp2.2\Namespace in Csharppp.dll
+C:\Users\cezar\source\repos\Namespace in Csharppp\Namespace in Csharppp\bin\Debug\netcoreapp2.2\Namespace in Csharppp.pdb
+C:\Users\cezar\source\repos\Namespace in Csharppp\Namespace in Csharppp\obj\Debug\netcoreapp2.2\Namespace in Csharppp.dll
+C:\Users\cezar\source\repos\Namespace in Csharppp\Namespace in Csharppp\obj\Debug\netcoreapp2.2\Namespace in Csharppp.pdb
+C:\Users\cezar\source\repos\Namespace in Csharppp\Namespace in Csharppp\bin\Debug\netcoreapp2.2\ProjectA.TeamA.dll
+C:\Users\cezar\source\repos\Namespace in Csharppp\Namespace in Csharppp\bin\Debug\netcoreapp2.2\ProjectA.TeamB.dll
+C:\Users\cezar\source\repos\Namespace in Csharppp\Namespace in Csharppp\bin\Debug\netcoreapp2.2\ProjectA.TeamA.pdb
+C:\Users\cezar\source\repos\Namespace in Csharppp\Namespace in Csharppp\bin\Debug\netcoreapp2.2\ProjectA.TeamB.pdb
+C:\Users\cezar\source\repos\Namespace in Csharppp\Namespace in Csharppp\obj\Debug\netcoreapp2.2\Namespace in Csharppp.csproj.CopyComplete

@@ -1,0 +1,171 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\Namespace in Csharppp\\Namespace in Csharppp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\Namespace in Csharppp\\Namespace in Csharppp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\Namespace in Csharppp\\Namespace in Csharppp.csproj",
+        "projectName": "Namespace in Csharppp",
+        "projectPath": "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\Namespace in Csharppp\\Namespace in Csharppp.csproj",
+        "packagesPath": "C:\\Users\\cezar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\Namespace in Csharppp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cezar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\ProjectA.TeamA\\ProjectA.TeamA.csproj": {
+                "projectPath": "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\ProjectA.TeamA\\ProjectA.TeamA.csproj"
+              },
+              "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\ProjectA.TeamB\\ProjectA.TeamB.csproj": {
+                "projectPath": "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\ProjectA.TeamB\\ProjectA.TeamB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\ProjectA.TeamA\\ProjectA.TeamA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\ProjectA.TeamA\\ProjectA.TeamA.csproj",
+        "projectName": "ProjectA.TeamA",
+        "projectPath": "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\ProjectA.TeamA\\ProjectA.TeamA.csproj",
+        "packagesPath": "C:\\Users\\cezar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\ProjectA.TeamA\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cezar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\ProjectA.TeamB\\ProjectA.TeamB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\ProjectA.TeamB\\ProjectA.TeamB.csproj",
+        "projectName": "ProjectA.TeamB",
+        "projectPath": "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\ProjectA.TeamB\\ProjectA.TeamB.csproj",
+        "packagesPath": "C:\\Users\\cezar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cezar\\source\\repos\\Namespace in Csharppp\\ProjectA.TeamB\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cezar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

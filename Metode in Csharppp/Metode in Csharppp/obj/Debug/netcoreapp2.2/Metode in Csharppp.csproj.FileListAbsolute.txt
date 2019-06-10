@@ -1,0 +1,11 @@
+C:\Users\cezar\source\repos\Metode in Csharppp\Metode in Csharppp\bin\Debug\netcoreapp2.2\Metode in Csharppp.deps.json
+C:\Users\cezar\source\repos\Metode in Csharppp\Metode in Csharppp\bin\Debug\netcoreapp2.2\Metode in Csharppp.runtimeconfig.json
+C:\Users\cezar\source\repos\Metode in Csharppp\Metode in Csharppp\bin\Debug\netcoreapp2.2\Metode in Csharppp.runtimeconfig.dev.json
+C:\Users\cezar\source\repos\Metode in Csharppp\Metode in Csharppp\bin\Debug\netcoreapp2.2\Metode in Csharppp.dll
+C:\Users\cezar\source\repos\Metode in Csharppp\Metode in Csharppp\bin\Debug\netcoreapp2.2\Metode in Csharppp.pdb
+C:\Users\cezar\source\repos\Metode in Csharppp\Metode in Csharppp\obj\Debug\netcoreapp2.2\Metode in Csharppp.csprojAssemblyReference.cache
+C:\Users\cezar\source\repos\Metode in Csharppp\Metode in Csharppp\obj\Debug\netcoreapp2.2\Metode in Csharppp.csproj.CoreCompileInputs.cache
+C:\Users\cezar\source\repos\Metode in Csharppp\Metode in Csharppp\obj\Debug\netcoreapp2.2\Metode in Csharppp.AssemblyInfoInputs.cache
+C:\Users\cezar\source\repos\Metode in Csharppp\Metode in Csharppp\obj\Debug\netcoreapp2.2\Metode in Csharppp.AssemblyInfo.cs
+C:\Users\cezar\source\repos\Metode in Csharppp\Metode in Csharppp\obj\Debug\netcoreapp2.2\Metode in Csharppp.dll
+C:\Users\cezar\source\repos\Metode in Csharppp\Metode in Csharppp\obj\Debug\netcoreapp2.2\Metode in Csharppp.pdb
